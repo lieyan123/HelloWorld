@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticweb/staticweb.iml" filepath="$PROJECT_DIR$/staticweb/staticweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmodule01/webmodule01.iml" filepath="$PROJECT_DIR$/webmodule01/webmodule01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmvc/webmvc.iml" filepath="$PROJECT_DIR$/webmvc/webmvc.iml" />
+    </modules>
+  </component>
+</project>
